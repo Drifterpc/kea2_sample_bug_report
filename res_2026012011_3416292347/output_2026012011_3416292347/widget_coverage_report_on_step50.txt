@@ -1,0 +1,10 @@
+activity:it.feio.android.omninotes.MainActivity|resourceId:KEY_BACK|content-desc:KEY_BACK
+activity:it.feio.android.omninotes.CategoryActivity|resourceId:android:id/overflow|content-desc:More options
+activity:it.feio.android.omninotes.MainActivity|resourceId:it.feio.android.omninotes.alpha:id/menu_category|content-desc:Category
+activity:it.feio.android.omninotes.MainActivity|resourceId:it.feio.android.omninotes.alpha:id/menu_sort|content-desc:Sort
+activity:it.feio.android.omninotes.MainActivity|resourceId:it.feio.android.omninotes.alpha:id/menu_tag|content-desc:Add tags
+activity:it.feio.android.omninotes.MainActivity|resourceId:it.feio.android.omninotes.alpha:id/menu_attachment|content-desc:Attachment
+activity:it.feio.android.omninotes.MainActivity|resourceId:it.feio.android.omninotes.alpha:id/action_mode_close_button|content-desc:Done
+activity:it.feio.android.omninotes.CategoryActivity|resourceId:KEY_BACK|content-desc:KEY_BACK
+activity:it.feio.android.omninotes.MainActivity|resourceId:it.feio.android.omninotes.alpha:id/menu_share|content-desc:Share
+activity:it.feio.android.omninotes.MainActivity|resourceId:it.feio.android.omninotes.alpha:id/menu_search|content-desc:Search

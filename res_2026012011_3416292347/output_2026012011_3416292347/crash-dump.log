@@ -1,0 +1,517 @@
+StepsCount: 7
+CrashScreen: screenshot-7-113424216.png
+20250701222221
+crash:
+// CRASH: team.opay.pay.merchant.service.alpha (pid 14627) (dump time: 2025-07-01 22:22:21
+// Version: 
+// Long Msg: java.lang.NullPointerException: Parameter specified as non-null is null: method team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened, parameter menu
+// 	at team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened(Unknown Source:2)
+// 	at com.android.internal.policy.PhoneWindow$ActionMenuPresenterCallback.onOpenSubMenu(PhoneWindow.java:2500)
+// 	at com.android.internal.view.menu.BaseMenuPresenter.onSubMenuSelected(BaseMenuPresenter.java:211)
+// 	at android.widget.ActionMenuPresenter.showOverflowMenu(ActionMenuPresenter.java:560)
+// 	at android.widget.ActionMenuPresenter$OverflowMenuButton.performClick(ActionMenuPresenter.java:893)
+// 	at android.view.View.performClickInternal(View.java:8009)
+// 	at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+// 	at android.view.View$PerformClick.run(View.java:31484)
+// 	at android.os.Handler.handleCallback(Handler.java:959)
+// 	at android.os.Handler.dispatchMessage(Handler.java:100)
+// 	at android.os.Looper.loopOnce(Looper.java:301)
+// 	at android.os.Looper.loop(Looper.java:398)
+// 	at android.app.ActivityThread.main(ActivityThread.java:9055)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:627)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:970)
+// crash end
+
+
+
+20250701224626
+crash:
+// CRASH: team.opay.pay.merchant.service.alpha (pid 32464) (dump time: 2025-07-01 22:46:26
+// Version: 
+// Long Msg: java.lang.NullPointerException: Parameter specified as non-null is null: method team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened, parameter menu
+// 	at team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened(Unknown Source:2)
+// 	at com.android.internal.policy.PhoneWindow$ActionMenuPresenterCallback.onOpenSubMenu(PhoneWindow.java:2500)
+// 	at com.android.internal.view.menu.BaseMenuPresenter.onSubMenuSelected(BaseMenuPresenter.java:211)
+// 	at android.widget.ActionMenuPresenter.showOverflowMenu(ActionMenuPresenter.java:560)
+// 	at android.widget.ActionMenuPresenter$OverflowMenuButton.performClick(ActionMenuPresenter.java:893)
+// 	at android.view.View.performClickInternal(View.java:8009)
+// 	at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+// 	at android.view.View$PerformClick.run(View.java:31484)
+// 	at android.os.Handler.handleCallback(Handler.java:959)
+// 	at android.os.Handler.dispatchMessage(Handler.java:100)
+// 	at android.os.Looper.loopOnce(Looper.java:301)
+// 	at android.os.Looper.loop(Looper.java:398)
+// 	at android.app.ActivityThread.main(ActivityThread.java:9055)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:627)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:970)
+// crash end
+
+
+20250702095936
+crash:
+// CRASH: team.opay.pay.merchant.service.alpha (pid 13228) (dump time: 2025-07-02 09:59:36
+// Version: 
+// Long Msg: java.lang.NullPointerException: Parameter specified as non-null is null: method team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened, parameter menu
+// 	at team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened(Unknown Source:2)
+// 	at com.android.internal.policy.PhoneWindow$ActionMenuPresenterCallback.onOpenSubMenu(PhoneWindow.java:2500)
+// 	at com.android.internal.view.menu.BaseMenuPresenter.onSubMenuSelected(BaseMenuPresenter.java:211)
+// 	at android.widget.ActionMenuPresenter.showOverflowMenu(ActionMenuPresenter.java:560)
+// 	at android.widget.ActionMenuPresenter$OverflowMenuButton.performClick(ActionMenuPresenter.java:893)
+// 	at android.view.View.performClickInternal(View.java:8009)
+// 	at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+// 	at android.view.View$PerformClick.run(View.java:31484)
+// 	at android.os.Handler.handleCallback(Handler.java:959)
+// 	at android.os.Handler.dispatchMessage(Handler.java:100)
+// 	at android.os.Looper.loopOnce(Looper.java:301)
+// 	at android.os.Looper.loop(Looper.java:398)
+// 	at android.app.ActivityThread.main(ActivityThread.java:9055)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:627)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:970)
+// crash end
+
+
+20250702110249
+crash:
+// CRASH: team.opay.pay.merchant.service.alpha (pid 24641) (dump time: 2025-07-02 11:02:49
+// Version: 
+// Long Msg: java.lang.NullPointerException: Parameter specified as non-null is null: method team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened, parameter menu
+// 	at team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened(Unknown Source:2)
+// 	at com.android.internal.policy.PhoneWindow$ActionMenuPresenterCallback.onOpenSubMenu(PhoneWindow.java:2500)
+// 	at com.android.internal.view.menu.BaseMenuPresenter.onSubMenuSelected(BaseMenuPresenter.java:211)
+// 	at android.widget.ActionMenuPresenter.showOverflowMenu(ActionMenuPresenter.java:560)
+// 	at android.widget.ActionMenuPresenter$OverflowMenuButton.performClick(ActionMenuPresenter.java:893)
+// 	at android.view.View.performClickInternal(View.java:8009)
+// 	at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+// 	at android.view.View$PerformClick.run(View.java:31484)
+// 	at android.os.Handler.handleCallback(Handler.java:959)
+// 	at android.os.Handler.dispatchMessage(Handler.java:100)
+// 	at android.os.Looper.loopOnce(Looper.java:301)
+// 	at android.os.Looper.loop(Looper.java:398)
+// 	at android.app.ActivityThread.main(ActivityThread.java:9055)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:627)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:970)
+// crash end
+
+
+20250702122213
+crash:
+// CRASH: team.opay.pay.merchant.service.alpha (pid 15052) (dump time: 2025-07-02 12:22:13
+// Version: 
+// Long Msg: java.lang.NullPointerException: Parameter specified as non-null is null: method team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened, parameter menu
+// 	at team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened(Unknown Source:2)
+// 	at com.android.internal.policy.PhoneWindow$ActionMenuPresenterCallback.onOpenSubMenu(PhoneWindow.java:2500)
+// 	at com.android.internal.view.menu.BaseMenuPresenter.onSubMenuSelected(BaseMenuPresenter.java:211)
+// 	at android.widget.ActionMenuPresenter.showOverflowMenu(ActionMenuPresenter.java:560)
+// 	at android.widget.ActionMenuPresenter$OverflowMenuButton.performClick(ActionMenuPresenter.java:893)
+// 	at android.view.View.performClickInternal(View.java:8009)
+// 	at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+// 	at android.view.View$PerformClick.run(View.java:31484)
+// 	at android.os.Handler.handleCallback(Handler.java:959)
+// 	at android.os.Handler.dispatchMessage(Handler.java:100)
+// 	at android.os.Looper.loopOnce(Looper.java:301)
+// 	at android.os.Looper.loop(Looper.java:398)
+// 	at android.app.ActivityThread.main(ActivityThread.java:9055)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:627)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:970)
+// crash end
+
+StepsCount: 61
+CrashScreen: screenshot-61-113548799.png
+20250702122534
+crash:
+// CRASH: team.opay.pay.merchant.service.alpha (pid 26960) (dump time: 2025-07-02 12:25:34
+// Version: 
+// Long Msg: java.lang.NullPointerException: Parameter specified as non-null is null: method team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened, parameter menu
+// 	at team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened(Unknown Source:2)
+// 	at com.android.internal.policy.PhoneWindow$ActionMenuPresenterCallback.onOpenSubMenu(PhoneWindow.java:2500)
+// 	at com.android.internal.view.menu.BaseMenuPresenter.onSubMenuSelected(BaseMenuPresenter.java:211)
+// 	at android.widget.ActionMenuPresenter.showOverflowMenu(ActionMenuPresenter.java:560)
+// 	at android.widget.ActionMenuPresenter$OverflowMenuButton.performClick(ActionMenuPresenter.java:893)
+// 	at android.view.View.performClickInternal(View.java:8009)
+// 	at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+// 	at android.view.View$PerformClick.run(View.java:31484)
+// 	at android.os.Handler.handleCallback(Handler.java:959)
+// 	at android.os.Handler.dispatchMessage(Handler.java:100)
+// 	at android.os.Looper.loopOnce(Looper.java:301)
+// 	at android.os.Looper.loop(Looper.java:398)
+// 	at android.app.ActivityThread.main(ActivityThread.java:9055)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:627)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:970)
+// crash end
+
+
+20250702122727
+crash:
+// CRASH: team.opay.pay.merchant.service.alpha (pid 32228) (dump time: 2025-07-02 12:27:27
+// Version: 
+// Long Msg: java.lang.NullPointerException: Parameter specified as non-null is null: method team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened, parameter menu
+// 	at team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened(Unknown Source:2)
+// 	at com.android.internal.policy.PhoneWindow$ActionMenuPresenterCallback.onOpenSubMenu(PhoneWindow.java:2500)
+// 	at com.android.internal.view.menu.BaseMenuPresenter.onSubMenuSelected(BaseMenuPresenter.java:211)
+// 	at android.widget.ActionMenuPresenter.showOverflowMenu(ActionMenuPresenter.java:560)
+// 	at android.widget.ActionMenuPresenter$OverflowMenuButton.performClick(ActionMenuPresenter.java:893)
+// 	at android.view.View.performClickInternal(View.java:8009)
+// 	at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+// 	at android.view.View$PerformClick.run(View.java:31484)
+// 	at android.os.Handler.handleCallback(Handler.java:959)
+// 	at android.os.Handler.dispatchMessage(Handler.java:100)
+// 	at android.os.Looper.loopOnce(Looper.java:301)
+// 	at android.os.Looper.loop(Looper.java:398)
+// 	at android.app.ActivityThread.main(ActivityThread.java:9055)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:627)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:970)
+// crash end
+
+
+StepsCount: 34
+CrashScreen: screenshot-34-221408564.png
+20250702124109
+anr:
+// ANR: team.opay.pay.merchant.service.alpha (pid 14971) (dump time: 2025-07-02 12:41:09
+// Version: 
+// NOT RESPONDING: team.opay.pay.merchant.service.alpha (pid 14971) (stat ANR in team.opay.pay.merchant.service.alpha (team.opay.pay.merchant.service.alpha/team.opay.business.transfer.flow.TransferFlowActivity), time=73289790
+Reason: Input dispatching timed out (3297611 team.opay.pay.merchant.service.alpha/team.opay.business.transfer.flow.TransferFlowActivity (server) is not responding. Waited 5000ms for MotionEvent).
+Load: 19.17 / 17.9 / 17.87
+----- Output from /proc/pressure/memory -----
+some avg10=0.00 avg60=0.02 avg300=0.00 total=24791407
+full avg10=0.00 avg60=0.00 avg300=0.00 total=14146169
+----- End output from /proc/pressure/memory -----
+----- Output from /proc/pressure/cpu -----
+some avg10=6.88 avg60=10.44 avg300=9.02 total=3618077479
+----- End output from /proc/pressure/cpu -----
+----- Output from /proc/pressure/io -----
+some avg10=0.00 avg60=0.00 avg300=0.00 total=34124717
+full avg10=0.00 avg60=0.00 avg300=0.00 total=20136602
+----- End output from /proc/pressure/io -----
+
+Android time :[2025-07-02 12:41:08.89] [73297.383]
+CPU usage from 47191ms to -1ms ago (2025-07-02 12:40:14.111 to 2025-07-02 12:41:01.303):
+  158% 14971/team.opay.pay.merchant.service.alpha: 130% user + 28% kernel / faults: 505490 minor 160 major
+  44% 1737/system_server: 26% user + 18% kernel / faults: 75868 minor 83 major
+  17% 1315/camerahalserver: 11% user + 5.6% kernel / faults: 129604 minor 277 major
+  15% 32360/com.google.android.gms.persistent: 11% user + 4.1% kernel / faults: 2840 minor
+  13% 1007/surfaceflinger: 7.6% user + 5.7% kernel / faults: 213 minor
+  9.5% 31140/adbd: 2.3% user + 7.1% kernel / faults: 88235 minor
+  9% 17661/app_process: 5.8% user + 3.2% kernel / faults: 18487 minor 7 major
+  7.1% 927/android.hardware.graphics.composer@2.3-service: 2.5% user + 4.6% kernel / faults: 11 minor
+  6.2% 2330/com.android.systemui: 4.3% user + 1.9% kernel / faults: 3685 minor 1 major
+  4.6% 13254/com.android.commands.monkey: 3.2% user + 1.4% kernel / faults: 15607 minor 4 major
+  4.4% 2292/com.transsion.hilauncher: 3.5% user + 0.9% kernel / faults: 35017 minor
+  3.4% 1307/android.hardware.sensors@2.0-service.multihal-mediatek: 1% user + 2.4% kernel
+  2.6% 568/kfps: 0% user + 2.6% kernel
+  1.9% 222/mtk_drm_cwb: 0% user + 1.9% kernel
+  1.7% 1242/mnld: 1.5% user + 0.2% kernel
+  1.7% 1244/cameraserver: 0.7% user + 1% kernel / faults: 296 minor 78 major
+  1.7% 251/charger_thread: 0% user + 1.7% kernel
+  1.7% 633/transceiver: 0% user + 1.7% kernel
+  1.4% 18308/kworker/u16:6-ged_kpi: 0% user + 1.4% kernel / faults: 379 minor
+  1.4% 15953/kworker/u17:3-mali_jd: 0% user + 1.4% kernel
+  1.3% 7473/kworker/u16:1-cmdq_pkt_destroy_wq: 0% user + 1.3% kernel / faults: 379 minor
+  1.3% 30223/kworker/u17:2-mt_fstb_base: 0% user + 1.3% kernel
+  1.2% 19685/kworker/u16:3-events_unbound: 0% user + 1.2% kernel / faults: 303 minor
+  1.1% 21781/kworker/u16:0-events_unbound: 0% user + 1.1% kernel / faults: 257 minor
+  1% 21686/kworker/u17:0-ufs_clk_gating_0: 0% user + 1% kernel
+  1% 523/logd: 0.3% user + 0.6% kernel / faults: 640 minor
+  1% 32293/com.google.android.gms: 0.7% user + 0.3% kernel / faults: 1189 minor 9 major
+  1% 526/servicemanager: 0.5% user + 0.4% kernel
+  0.7% 73/kcompactd0: 0% user + 0.7% kernel
+  0.7% 963/vendor.mediatek.hardware.mtkpower@1.0-service: 0.2% user + 0.5% kernel
+  0.6% 922/android.hardware.gnss-service.mediatek: 0.1% user + 0.4% kernel
+  0.5% 175/cmdq_irq_thread: 0% user + 0.5% kernel
+  0.5% 2542/com.android.phone: 0.2% user + 0.2% kernel / faults: 714 minor
+  0.5% 13/rcu_preempt: 0% user + 0.5% kernel
+  0.5% 3527/com.google.android.providers.media.module: 0% user + 0.4% kernel / faults: 75 minor 9 major
+  0.4% 2209/main_thread: 0% user + 0.4% kernel
+  0.4% 1338/vendor.mediatek.hardware.pq@2.2-service: 0.2% user + 0.2% kernel
+  0.4% 2210/hif_thread: 0% user + 0.4% kernel
+  0.3% 1/init: 0.1% user + 0.1% kernel
+  0.3% 3475/com.transsion.kolun.aiservice: 0.2% user + 0.1% kernel / faults: 322 minor
+  0.2% 154/dmabuf-deferred: 0% user + 0.2% kernel
+  0.2% 904/netd: 0% user + 0.2% kernel / faults: 144 minor
+  0.2% 3955/com.transsion.smartpanel: 0.1% user + 0.1% kernel / faults: 162 minor 1 major
+  0.2% 20677/kworker/0:0-events: 0% user + 0.2% kernel
+  0.2% 903/statsd: 0% user + 0.1% kernel
+  0.2% 220/dis_ki-0: 0% user + 0.2% kernel
+  0.2% 143/kswapd0: 0% user + 0.2% kernel
+  0.1% 705/com.sh.smart.caller: 0% user + 0.1% kernel
+  0.1% 16/migration/0: 0% user + 0.1% kernel
+  0.1% 31/migration/3: 0% user + 0.1% kernel
+  0.1% 37/migration/4: 0% user + 0.1% kernel
+  0.1% 43/migration/5: 0% user + 0.1% kernel
+  0.1% 668/kshrink_slabd: 0% user + 0.1% kernel
+  0.1% 6271/kworker/u17:1-kbase_pm_shader_powerof: 0% user + 0.1% kernel
+  0.1% 25/migration/2: 0% user + 0.1% kernel
+  0.1% 12/ksoftirqd/0: 0% user + 0.1% kernel
+  0.1% 19/migration/1: 0% user + 0.1% kernel
+  0.1% 924/android.hardware.graphics.allocator@4.0-service-mediatek: 0% user + 0.1% kernel / faults: 78 major
+  0.1% 10419/kworker/u16:5-events_unbound: 0% user + 0.1% kernel / faults: 31 minor
+  0.1% 16466/kworker/1:0-events: 0% user + 0.1% kernel
+  0.1% 21/ksoftirqd/1: 0% user + 0.1% kernel
+  0.1% 27/ksoftirqd/2: 0% user + 0.1% kernel
+  0.1% 1258/wificond: 0% user + 0% kernel / faults: 6 minor
+  0.1% 6283/com.geniex.vsimhelper: 0% user + 0% kernel / faults: 99 minor
+  0.1% 29735/kworker/3:1-events: 0% user + 0.1% kernel
+  0% 33/ksoftirqd/3: 0% user + 0% kernel
+  0% 219/mtk_drm_disp_id: 0% user + 0% kernel
+  0% 1331/mtk_agpsd: 0% user + 0% kernel / faults: 8 minor
+  0% 2302/com.transsion.cutepet: 0% user + 0% kernel / faults: 44 minor
+  0% 3543/com.google.android.as: 0% user + 0% kernel / faults: 45 minor
+  0% 15208/com.android.adbkeyboard: 0% user + 0% kernel / faults: 36 minor
+  0% 15352/kworker/2:1-events: 0% user + 0% kernel
+  0% 16276/kworker/u16:2-mt_mini_top: 0% user + 0% kernel / faults: 32 minor
+  0% 19010/kworker/3:4H-events_highpri: 0% user + 0% kernel
+  0% 39/ksoftirqd/4: 0% user + 0% kernel
+  0% 45/ksoftirqd/5: 0% user + 0% kernel
+  0% 51/ksoftirqd/6: 0% user + 0% kernel
+  0% 332/ueventd: 0% user + 0% kernel
+  0% 515/btif_rxd: 0% user + 0% kernel
+  0% 657/resource_monito: 0% user + 0% kernel
+  0% 928/android.hardware.health@2.1-service: 0% user + 0% kernel
+  0% 996/audioserver: 0% user + 0% kernel
+  0% 1217/thermal_core: 0% user + 0% kernel / faults: 7 major
+  0% 2492/com.android.networkstack.process: 0% user + 0% kernel / faults: 173 minor 3 major
+  0% 2615/com.transsion.tranradionet: 0% user + 0% kernel / faults: 28 minor
+  0% 3629/com.hoffnung.mobile.service: 0% user + 0% kernel / faults: 58 minor
+  0% 9738/kworker/6:0-events: 0% user + 0% kernel
+  0% 11811/com.google.android.as.oss: 0% user + 0% kernel / faults: 54 minor 3 major
+  0% 16524/kworker/4:0: 0% user + 0% kernel
+  0% 20515/kworker/5:3-events: 0% user + 0% kernel
+  0% 57/ksoftirqd/7: 0% user + 0% kernel
+  0% 524/lmkd: 0% user + 0% kernel
+  0% 527/hwservicemanager: 0% user + 0% kernel
+  0% 533/psimon: 0% user + 0% kernel
+  0% 544/com.google.android.permissioncontroller: 0% user + 0% kernel / faults: 5 minor
+  0% 673/android.system.suspend-service: 0% user + 0% kernel
+  0% 779/loop19: 0% user + 0% kernel
+  0% 914/android.hardware.audio.service.mediatek: 0% user + 0% kernel
+  0% 1011/hiber: 0% user + 0% kernel
+  0% 1018/fuelgauged: 0% user + 0% kernel
+  0% 1128/mtk_stp_psm: 0% user + 0% kernel
+  0% 1130/mtk_wmtd: 0% user + 0% kernel
+  0% 1602/mtkfusionrild: 0% user + 0% kernel
+  0% 3315/com.android.bluetooth: 0% user + 0% kernel / faults: 14 minor
+  0% 3337/com.google.android.ext.services: 0% user + 0% kernel / faults: 49 minor
+  0% 3476/com.google.android.googlequicksearchbox:search: 0% user + 0% kernel / faults: 24 minor 2 major
+  0% 6384/osi_bin: 0% user + 0% kernel
+  0% 8350/com.android.vending: 0% user + 0% kernel / faults: 8 minor
+  0% 10666/com.facemoji.lite.transsion: 0% user + 0% kernel / faults: 12 minor
+  0% 15596/com.transsion.aivoiceassistant: 0% user + 0% kernel / faults: 20 minor
+  0% 17408/com.transsion.camera: 0% user + 0% kernel / faults: 4 minor
+  0% 49/migration/6: 0% user + 0% kernel
+  0% 192/spi5: 0% user + 0% kernel
+  0% 240/irq/154-sc8950_: 0% user + 0% kernel
+  0% 625/jbd2/sdc7-8: 0% user + 0% kernel
+  0% 670/tran_mm_collect: 0% user + 0% kernel
+  0% 934/android.hardware.thermal@2.0-service.mtk: 0% user + 0% kernel / faults: 3 minor 13 major
+  0% 936/android.hardware.usb@1.2-service-mediatekv2: 0% user + 0% kernel
+  0% 945/android.hardware.memtrack-service.mediatek: 0% user + 0% kernel
+  0% 1261/emdlogger: 0% user + 0% kernel
+  0% 1474/gsm0710muxd: 0% user + 0% kernel
+  0% 1483/bip: 0% user + 0% kernel
+  0% 2192/android.hardware.wifi@1.0-service-lazy: 0% user + 0% kernel
+  0% 2211/rx_thread: 0% user + 0% kernel
+  0% 2217/wpa_supplicant: 0% user + 0% kernel / faults: 2 minor
+  0% 2569/com.mediatek.ims: 0% user + 0% kernel / faults: 19 minor
+  0% 2591/com.android.se: 0% user + 0% kernel / faults: 9 minor
+  0% 3685/com.android.nfc: 0% user + 0% kernel / faults: 14 minor
+  0% 4439/com.transsion.phonemaster: 0% user + 0% kernel / faults: 1 minor
+  0% 4484/com.google.android.adservices.api: 0% user + 0% kernel / faults: 4 minor
+  0% 4925/com.transsion.sk: 0% user + 0% kernel / faults: 23 minor
+  0% 5281/com.transsion.trancare: 0% user + 0% kernel / faults: 11 minor 1 major
+  0% 5454/com.transsion.tranengine: 0% user + 0% kernel / faults: 11 minor
+  0% 6378/osi: 0% user + 0% kernel
+  0% 6424/android.process.media: 0% user + 0% kernel / faults: 1 minor
+  0% 13353/com.google.android.apps.wellbeing: 0% user + 0% kernel
+  0% 13657/com.transsion.phonemanager: 0% user + 0% kernel / faults: 4 minor
+  0% 14367/com.transsion.iotcard: 0% user + 0% kernel
+  0% 14982/com.transsion.iotservice: 0% user + 0% kernel / faults: 13 minor
+  0% 15724/com.transsion.aivoiceassistant:voiceinteractionservice: 0% user + 0% kernel / faults: 15 minor
+  0% 16223/kworker/0:1H-kblockd: 0% user + 0% kernel
+  0% 18645/kworker/2:1H-kblockd: 0% user + 0% kernel
+  0% 19418/kworker/7:2-events: 0% user + 0% kernel
+  0% 21412/com.transsion.globalsearch: 0% user + 0% kernel / faults: 1 minor
+  0% 26523/com.transsion.systemupdate: 0% user + 0% kernel / faults: 12 minor
+  0% 29636/kworker/4:0H-kblockd: 0% user + 0% kernel
+  0% 30158/com.transsion.uxdetector: 0% user + 0% kernel / faults: 12 minor
+  0% 30663/kworker/5:1H-kverityd: 0% user + 0% kernel
+  0% 31484/com.facemoji.lite.transsion:push: 0% user + 0% kernel / faults: 4 minor
+  0% 32082/com.google.android.as.oss:learning_bg: 0% user + 0% kernel / faults: 3 minor
+ +0% 19541/kworker/u17:4-mali_jd: 0% user + 0% kernel
+ +0% 19568/kworker/u16:4-flush-254:72: 0% user + 0% kernel
+ +0% 20278/kworker/7:0H-kverityd: 0% user + 0% kernel
+45% TOTAL: 27% user + 15% kernel + 0% iowait + 1.9% irq + 0.4% softirq
+CPU usage from 104ms to 683ms later (2025-07-02 12:41:01.406 to 2025-07-02 12:41:01.985):
+  192% 14971/team.opay.pay.merchant.service.alpha: 142% user + 49% kernel / faults: 2262 minor 12 major
+    96% 6132/HeapAnalyzer: 81% user + 14% kernel
+    81% 5782/Signal Catcher: 52% user + 29% kernel
+    5.8% 14971/t.service.alpha: 5.8% user + 0% kernel
+    2.9% 5886/FramePolicy: 2.9% user + 0% kernel
+    2.9% 5982/mali-mem-purge: 0% user + 2.9% kernel
+    2.9% 13866/binder:14971_B: 2.9% user + 0% kernel
+  82% 1737/system_server: 39% user + 43% kernel / faults: 1714 minor
+    52% 20523/AnrAuxiliaryTas: 21% user + 30% kernel
+    10% 2649/binder:1737_B: 10% user + 0% kernel
+    4.3% 1978/SensorService: 0% user + 4.3% kernel
+    4.3% 4792/binder:1737_20: 2.1% user + 2.1% kernel
+    2.1% 1789/android.ui: 0% user + 2.1% kernel
+    2.1% 3398/TranTrafficMoni: 2.1% user + 0% kernel
+  12% 143/kswapd0: 0% user + 12% kernel
+  11% 668/kshrink_slabd: 0% user + 11% kernel
+  9.2% 526/servicemanager: 5.5% user + 3.6% kernel
+  17% 31140/adbd: 10% user + 6.8% kernel / faults: 1359 minor
+    10% 31140/adbd: 6.8% user + 3.4% kernel
+    3.4% 14712/UsbFfs-worker: 0% user + 3.4% kernel
+  8.8% 2330/com.android.systemui: 4.4% user + 4.4% kernel / faults: 33 minor
+    4.4% 2330/ndroid.systemui: 2.2% user + 2.2% kernel
+    2.2% 3122/binder:2330_7: 0% user + 2.2% kernel
+  5.9% 1007/surfaceflinger: 3.9% user + 1.9% kernel / faults: 1 minor
+    1.9% 1007/surfaceflinger: 1.9% user + 0% kernel
+    1.9% 1207/TimerDispatch: 1.9% user + 0% kernel
+    1.9% 1209/app: 1.9% user + 0% kernel
+  4.4% 2292/com.transsion.hilauncher: 4.4% user + 0% kernel / faults: 400 minor
+    2.2% 2292/sion.hilauncher: 2.2% user + 0% kernel
+  7.1% 32360/com.google.android.gms.persistent: 7.1% user + 0% kernel / faults: 9 minor
+    3.5% 32414/FlpThread: 3.5% user + 0% kernel
+  1.7% 23/kworker/1:0H-kblockd: 0% user + 1.7% kernel
+  1.7% 27/ksoftirqd/2: 0% user + 1.7% kernel
+  1.7% 39/ksoftirqd/4: 0% user + 1.7% kernel
+  1.7% 222/mtk_drm_cwb: 0% user + 1.7% kernel
+  1.8% 523/logd: 1.8% user + 0% kernel
+  1.9% 927/android.hardware.graphics.composer@2.3-service: 0% user + 1.9% kernel
+  1.9% 963/vendor.mediatek.hardware.mtkpower@1.0-service: 0% user + 1.9% kernel
+    1.9% 1065/mtkPowerMsgHdl: 0% user + 1.9% kernel
+  2% 1307/android.hardware.sensors@2.0-service.multihal-mediatek: 0% user + 2% kernel
+  3.1% 18308/kworker/u16:6-brightness_wq: 0% user + 3.1% kernel / faults: 6 minor
+  3.1% 19568/kworker/u16:4+cmdq_flushq: 0% user + 3.1% kernel / faults: 16 minor
+  3.2% 20531/kworker/3:12H-kverityd: 0% user + 3.2% kernel
+ +0% 20536/kworker/6:2H-kverityd: 0% user + 0% kernel
+53% TOTAL: 28% user + 22% kernel + 0.6% iowait + 1.3% irq + 1.3% softirq
+anr end
+
+
+20250702124643
+crash:
+// CRASH: team.opay.pay.merchant.service.alpha (pid 30332) (dump time: 2025-07-02 12:46:43
+// Version: 
+// Long Msg: java.lang.NullPointerException: Parameter specified as non-null is null: method team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened, parameter menu
+// 	at team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened(Unknown Source:2)
+// 	at com.android.internal.policy.PhoneWindow$ActionMenuPresenterCallback.onOpenSubMenu(PhoneWindow.java:2500)
+// 	at com.android.internal.view.menu.BaseMenuPresenter.onSubMenuSelected(BaseMenuPresenter.java:211)
+// 	at android.widget.ActionMenuPresenter.showOverflowMenu(ActionMenuPresenter.java:560)
+// 	at android.widget.ActionMenuPresenter$OverflowMenuButton.performClick(ActionMenuPresenter.java:893)
+// 	at android.view.View.performClickInternal(View.java:8009)
+// 	at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+// 	at android.view.View$PerformClick.run(View.java:31484)
+// 	at android.os.Handler.handleCallback(Handler.java:959)
+// 	at android.os.Handler.dispatchMessage(Handler.java:100)
+// 	at android.os.Looper.loopOnce(Looper.java:301)
+// 	at android.os.Looper.loop(Looper.java:398)
+// 	at android.app.ActivityThread.main(ActivityThread.java:9055)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:627)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:970)
+// crash end
+
+
+20250702125005
+crash:
+// CRASH: team.opay.pay.merchant.service.alpha (pid 23210) (dump time: 2025-07-02 12:50:05
+// Version: 
+// Long Msg: java.lang.NullPointerException: Parameter specified as non-null is null: method team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened, parameter menu
+// 	at team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened(Unknown Source:2)
+// 	at com.android.internal.policy.PhoneWindow$ActionMenuPresenterCallback.onOpenSubMenu(PhoneWindow.java:2500)
+// 	at com.android.internal.view.menu.BaseMenuPresenter.onSubMenuSelected(BaseMenuPresenter.java:211)
+// 	at android.widget.ActionMenuPresenter.showOverflowMenu(ActionMenuPresenter.java:560)
+// 	at android.widget.ActionMenuPresenter$OverflowMenuButton.performClick(ActionMenuPresenter.java:893)
+// 	at android.view.View.performClickInternal(View.java:8009)
+// 	at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+// 	at android.view.View$PerformClick.run(View.java:31484)
+// 	at android.os.Handler.handleCallback(Handler.java:959)
+// 	at android.os.Handler.dispatchMessage(Handler.java:100)
+// 	at android.os.Looper.loopOnce(Looper.java:301)
+// 	at android.os.Looper.loop(Looper.java:398)
+// 	at android.app.ActivityThread.main(ActivityThread.java:9055)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:627)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:970)
+// crash end
+
+
+20250702130348
+crash:
+// CRASH: team.opay.pay.merchant.service.alpha (pid 28562) (dump time: 2025-07-02 13:03:48
+// Version: 
+// Long Msg: java.lang.NullPointerException: Parameter specified as non-null is null: method team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened, parameter menu
+// 	at team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened(Unknown Source:2)
+// 	at com.android.internal.policy.PhoneWindow$ActionMenuPresenterCallback.onOpenSubMenu(PhoneWindow.java:2500)
+// 	at com.android.internal.view.menu.BaseMenuPresenter.onSubMenuSelected(BaseMenuPresenter.java:211)
+// 	at android.widget.ActionMenuPresenter.showOverflowMenu(ActionMenuPresenter.java:560)
+// 	at android.widget.ActionMenuPresenter$OverflowMenuButton.performClick(ActionMenuPresenter.java:893)
+// 	at android.view.View.performClickInternal(View.java:8009)
+// 	at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+// 	at android.view.View$PerformClick.run(View.java:31484)
+// 	at android.os.Handler.handleCallback(Handler.java:959)
+// 	at android.os.Handler.dispatchMessage(Handler.java:100)
+// 	at android.os.Looper.loopOnce(Looper.java:301)
+// 	at android.os.Looper.loop(Looper.java:398)
+// 	at android.app.ActivityThread.main(ActivityThread.java:9055)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:627)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:970)
+// crash end
+
+
+20250702133107
+crash:
+// CRASH: team.opay.pay.merchant.service.alpha (pid 11424) (dump time: 2025-07-02 13:31:07
+// Version: 
+// Long Msg: java.lang.NullPointerException: Parameter specified as non-null is null: method team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened, parameter menu
+// 	at team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened(Unknown Source:2)
+// 	at com.android.internal.policy.PhoneWindow$ActionMenuPresenterCallback.onOpenSubMenu(PhoneWindow.java:2500)
+// 	at com.android.internal.view.menu.BaseMenuPresenter.onSubMenuSelected(BaseMenuPresenter.java:211)
+// 	at android.widget.ActionMenuPresenter.showOverflowMenu(ActionMenuPresenter.java:560)
+// 	at android.widget.ActionMenuPresenter$OverflowMenuButton.performClick(ActionMenuPresenter.java:893)
+// 	at android.view.View.performClickInternal(View.java:8009)
+// 	at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+// 	at android.view.View$PerformClick.run(View.java:31484)
+// 	at android.os.Handler.handleCallback(Handler.java:959)
+// 	at android.os.Handler.dispatchMessage(Handler.java:100)
+// 	at android.os.Looper.loopOnce(Looper.java:301)
+// 	at android.os.Looper.loop(Looper.java:398)
+// 	at android.app.ActivityThread.main(ActivityThread.java:9055)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:627)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:970)
+// crash end
+
+
+20250702133649
+crash:
+// CRASH: team.opay.pay.merchant.service.alpha (pid 24946) (dump time: 2025-07-02 13:36:49
+// Version: 
+// Long Msg: java.lang.NullPointerException: Parameter specified as non-null is null: method team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened, parameter menu
+// 	at team.opay.business.applock.delegate.WindowCallbackWrapper.onMenuOpened(Unknown Source:2)
+// 	at com.android.internal.policy.PhoneWindow$ActionMenuPresenterCallback.onOpenSubMenu(PhoneWindow.java:2500)
+// 	at com.android.internal.view.menu.BaseMenuPresenter.onSubMenuSelected(BaseMenuPresenter.java:211)
+// 	at android.widget.ActionMenuPresenter.showOverflowMenu(ActionMenuPresenter.java:560)
+// 	at android.widget.ActionMenuPresenter$OverflowMenuButton.performClick(ActionMenuPresenter.java:893)
+// 	at android.view.View.performClickInternal(View.java:8009)
+// 	at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+// 	at android.view.View$PerformClick.run(View.java:31484)
+// 	at android.os.Handler.handleCallback(Handler.java:959)
+// 	at android.os.Handler.dispatchMessage(Handler.java:100)
+// 	at android.os.Looper.loopOnce(Looper.java:301)
+// 	at android.os.Looper.loop(Looper.java:398)
+// 	at android.app.ActivityThread.main(ActivityThread.java:9055)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:627)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:970)
+// crash end
+

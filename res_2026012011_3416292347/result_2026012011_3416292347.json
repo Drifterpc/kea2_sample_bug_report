@@ -1,0 +1,37 @@
+{
+    "quickstart.Omni_Notes_Sample.go_to_privacy_settings": {
+        "kind": "property",
+        "precond_satisfied": 15,
+        "executed": 10,
+        "fail": 0,
+        "error": 0
+    },
+    "quickstart.Omni_Notes_Sample.navigate_up": {
+        "kind": "property",
+        "precond_satisfied": 35,
+        "executed": 18,
+        "fail": 0,
+        "error": 0
+    },
+    "quickstart.Omni_Notes_Sample.open_drawer": {
+        "kind": "property",
+        "precond_satisfied": 12,
+        "executed": 3,
+        "fail": 0,
+        "error": 0
+    },
+    "quickstart.Omni_Notes_Sample.rotation_should_not_close_the_search_input": {
+        "kind": "property",
+        "precond_satisfied": 1,
+        "executed": 1,
+        "fail": 1,
+        "error": 0
+    },
+    "quickstart.Omni_Notes_Sample.search_button_and_search_input_box_should_not_exists_at_the_same_time": {
+        "kind": "invariant",
+        "precond_satisfied": 0,
+        "executed": 0,
+        "fail": 11,
+        "error": 0
+    }
+}
