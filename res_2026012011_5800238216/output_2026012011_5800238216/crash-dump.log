@@ -1,8 +1,8 @@
-StepsCount: 7
-CrashScreen: screenshot-7-113424216.png
-20260120123227
+StepsCount: 84
+CrashScreen: screenshot-84-120221215.png
+20260120190346
 crash:
-// CRASH: it.feio.android.omninotes.alpha (pid 14627) (dump time: 2026-01-20 12:32:27
+// CRASH: it.feio.android.omninotes.alpha (pid 14627) (dump time: 2026-01-20 19:03:47
 // Version: 
 // Long Msg: java.lang.NullPointerException: Parameter specified as non-null is null: method it.feio.android.omninotes.alpha.applock.delegate.WindowCallbackWrapper.onMenuOpened, parameter menu
 // 	at it.feio.android.omninotes.alpha.delegate.WindowCallbackWrapper.onMenuOpened(Unknown Source:2)
